@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "full_name": "Rajesh Malhotra",
+      "city": "Mumbai",
+      "gender": "Male",
+      "role": "customer",
+      "phone": "+91 98200 12345"
+    },
+    {
+      "full_name": "Sunita Kashyap",
+      "city": "New Delhi",
+      "gender": "Female",
+      "role": "provider",
+      "service": "cook",
+      "status": "approved"
+    },
+    {
+      "full_name": "Amitabh Singh",
+      "city": "Lucknow",
+      "gender": "Male",
+      "role": "provider",
+      "service": "driver",
+      "status": "approved"
+    },
+    {
+      "full_name": "Priya Deshmukh",
+      "city": "Pune",
+      "gender": "Non-Binary",
+      "role": "provider",
+      "service": "helper",
+      "status": "pending"
+    }
+  ],
+  "jobs": [
+    {
+      "category": "helper",
+      "description": "Wait in line for Passport renewal at Pune RTO",
+      "location": "Pune RTO, Sector 5",
+      "price": 750,
+      "state": "requested"
+    },
+    {
+      "category": "driver",
+      "description": "Drive from Mumbai to Goa (Long Trip)",
+      "location": "Bandra to Panjim",
+      "price": 4500,
+      "state": "in_progress"
+    }
+  ]
+}
